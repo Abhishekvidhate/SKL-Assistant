@@ -13,4 +13,4 @@ jupyter
 markdown
 streamlit
 torch
-pysqlite3
+
