@@ -13,4 +13,4 @@ jupyter
 markdown
 streamlit
 torch
-
+sqlite3 >= 3.35.0
