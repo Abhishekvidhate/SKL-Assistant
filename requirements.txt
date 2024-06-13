@@ -3,18 +3,14 @@ langchain-community
 langchain-groq
 langchain-core
 langchain-text-splitters
-langchain-astradb
 langchainhub
 langchain-huggingface
 langchain-chroma
-ragstack
-
 sentence-transformers
 Unstructured
-
-python-dotenv~=1.0.1
+python-dotenv
 jupyter
 markdown
 streamlit
-torch~=2.3.1
-astrapy~=1.2.1
+torch
+sqlite3 >= 3.35.0
